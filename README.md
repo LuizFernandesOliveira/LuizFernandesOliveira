@@ -1,7 +1,10 @@
 # <h1 align="center">Luiz Fernandes de Oliveira</h1>
 [![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/luizfernandesoliveiraoficial/)
 ## Olá, seja bem vindo ao meu repositório 👋
-### Sou apaixonado por Matemática e tenho uma quedinha por tecnologias da informação. 
+### Sou apaixonado por Matemática e tenho uma quedinha por tecnologias da informação. Atualmente estou estudando para juntar essas duas áreas na minha vida (Resolvendo projeto de tecnologia usando meus conhecimentos de matemática)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernandesOliveira)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 📚 **Acadêmico** 
     - Estudante de Desenvolvimento de Software na **[Trybe](https://www.betrybe.com/)** 
@@ -11,12 +14,8 @@
     - Medalhista da Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP - edição 2015) 
 
 - 💻 **Linguagens:** 
-    - HTML 
-    - CSS (bootstrap, buma) 
-    - JavaScript (React, Node.js, React Native) 
-    - Shell Script
-    - SQL (MySql, Sqlite)
-    - em busca de aprender muito mais!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandesOliveira&langs_count=10)](https://github.com/LuizFernandesOliveira/github-readme-stats)
 
 - 🎨 **Ferramentas:** 
     - Línux
