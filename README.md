@@ -26,6 +26,6 @@
     - Figma
 
 ## Quais são meus projetos?
-### Acesse todos os meus projetos clicando [Aqui](https://luizfernandesoliveiraoficial.herokuapp.com/)
+### Acesse meu site pessoal e conheça todos os meus projetos clicando [Aqui](https://luizfernandesoliveiraoficial.vercel.app/)
 
 ---
