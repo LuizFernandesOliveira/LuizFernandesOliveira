@@ -16,7 +16,7 @@
         <img src="https://visitor-badge.glitch.me/badge?page_id=LuizFernandesOliveira.visitor-badge" />
     </a>
     <div style="display: flex">
-        <p style="width: 50%; font-size: 18px">Sou muito conhecido como Nando, tenho 23 aninhos, sou desenvolvedor web FullStack. Enxergo as tecnologias como um hobby, isso torna o meu processo de aprendizagem mais divertido.</p>
+        <p style="width: 50%; font-size: 18px">Sou muito conhecido como Nando, tenho 23 aninhos, sou desenvolvedor web Backend. Enxergo as tecnologias como um hobby, isso torna o meu processo de aprendizagem mais divertido.</p>
         <a hreg="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=LuizFernandesOliveira" />
         </a>
