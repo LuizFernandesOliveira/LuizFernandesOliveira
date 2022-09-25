@@ -28,13 +28,13 @@
     <h3>cursos</h3>
     <ul>
         <li>
-        Estudante de Desenvolvimento de Software na <a href="https://www.betrybe.com/">Trybe</a>
+        Formado em Desenvolvimento de Software na <a href="https://www.betrybe.com/">Trybe</a>
         </li>
         <li>
         Estudante de Segunrança da Informação no <a href="https://tecnicasdeinvasao.com/">Técnicas de Invasão</a>
         </li>
         <li>
-        Estudante de Tecnologia Em Sistemas para Internet no <a href="https://portal.ifrn.edu.br/campus/canguaretama/cursos-regulares/curso-superior-de-tecnologia-em-sistemas-para-internet">IFRN/Canguaretama</a>
+        Estudante de Ciência da Computação na <a href="https://estacio.br/">Universidade Estácio de Sá</a>
         </li>
     </ul>
     <h3>Prêmios</h3>
@@ -53,20 +53,13 @@
 <div>
     <h2>Ferramentas 🎨</h1>
     <ul>
-        <li>Línux</li>
-        <li>Visual Studio Code</li>
-        <li>Insomnia</li>
-        <li>Docker</li>
-        <li>Git e GitHub</li>
-        <li>Figma</li>
+        <li>S.O.: Línux</li>
+        <li>Editor de código: IntelliJ IDEA, Webstorm, AndroidStudio, VSCode.</li>
+        <li>API de requisições: Postman, Insomnia.</li>
+        <li>Núven: AWS</li>
+        <li>Versionamento de código: Git e GitHub</li>
+        <li>Criação de templates: Figma</li>
     </ul>
-</div>
-
-<div>
-    <h2>Quais são meus projetos?</h1>
-    <p>
-         Acesse meu site pessoal e conheça todos os meus projetos clicando <a href="https://luizfernandesoliveiraoficial.vercel.app/">Aqui</a>
-    </p>
 </div>
 
 ---
