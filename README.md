@@ -1,65 +1,21 @@
+# 💫 Sobre Mim:
+Sou estudante de Ciência da computação e atuo como Engenheiro de software há aproximadamente 2 anos.
 
 
-<div>
-    <h1 align="center">Luiz Fernandes de Oliveira</h1>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizfernandesoliveira.oficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizfernandesoliveiraoficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/luizfernandesoliveiraoficial) 
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/luizfernandesoliveiraoficial/">
-        <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png" />
-    </a>
-</div>
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LuizFernandesOliveira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuizFernandesOliveira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandesOliveira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div>
-    <h2>Olá, seja bem vindo ao meu repositório 👋</h1>
-    <a href="https://github.com/LuizFernandesOliveira">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=LuizFernandesOliveira.visitor-badge" />
-    </a>
-    <div style="display: flex">
-        <p style="width: 50%; font-size: 18px">Sou muito conhecido como Nando, tenho 23 aninhos, sou desenvolvedor web Backend. Enxergo as tecnologias como um hobby, isso torna o meu processo de aprendizagem mais divertido.</p>
-        <a hreg="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=LuizFernandesOliveira" />
-        </a>
-    </div>
-</div>
-
-<div>
-    <h2>Acadêmico 📚 </h1>
-    <h3>cursos</h3>
-    <ul>
-        <li>
-        Formado em Desenvolvimento de Software na <a href="https://www.betrybe.com/">Trybe</a>
-        </li>
-        <li>
-        Estudante de Segunrança da Informação no <a href="https://tecnicasdeinvasao.com/">Técnicas de Invasão</a>
-        </li>
-        <li>
-        Estudante de Ciência da Computação na <a href="https://estacio.br/">Universidade Estácio de Sá</a>
-        </li>
-    </ul>
-    <h3>Prêmios</h3>
-    <ul>
-        <li>Medalhista da Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP - edição 2015) </li>
-    </ul>
-</div>
-
-<div>
-    <h2>Linguagens 💻</h1>
-    <a hreg="https://github.com/LuizFernandesOliveira/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandesOliveira&langs_count=10" />
-    </a>
-</div>
-
-<div>
-    <h2>Ferramentas 🎨</h1>
-    <ul>
-        <li>S.O.: Línux</li>
-        <li>Editor de código: IntelliJ IDEA, Webstorm, AndroidStudio, VSCode.</li>
-        <li>API de requisições: Postman, Insomnia.</li>
-        <li>Núven: AWS</li>
-        <li>Versionamento de código: Git e GitHub</li>
-        <li>Criação de templates: Figma</li>
-    </ul>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LuizFernandesOliveira&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=LuizFernandesOliveira&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
