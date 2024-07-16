@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Sou estudante de Ciência da computação e atuo como Engenheiro de software há mais de 2 anos.
+Sou estudante de Ciência da computação e atuo como Engenheiro de software há mais de 3 anos.
 
 
 ## 🌐 Socials:
