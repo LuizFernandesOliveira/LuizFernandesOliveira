@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Sou estudante de Ciência da computação e atuo como Engenheiro de software há mais de 3 anos.
+Atuo como Engenheiro de software há mais de 4 anos.
 
 # 📊  Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuizFernandesOliveira&theme=dark&border_radius=5.4&locale=pt_BR&card_width=500)
