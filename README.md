@@ -6,10 +6,6 @@ Sou estudante de Ciência da computação e atuo como Engenheiro de software há
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandesOliveira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://tryhackme-badges.s3.amazonaws.com/lfooficial.png" alt="Your Image Badge" />
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LuizFernandesOliveira&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=LuizFernandesOliveira&icon=0&color=0)](https://visitcount.itsvg.in)
 
